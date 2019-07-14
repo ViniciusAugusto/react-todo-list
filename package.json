@@ -19,6 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "setupFiles": ["./src/setupTests.js"],
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -29,6 +30,8 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "react-test-renderer": "^16.8.1"
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "react-test-renderer": "^16.8.6"
   }
 }
