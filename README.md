@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo
+Open [https://react-todo-list-test.netlify.com/](https://react-todo-list-test.netlify.com/) 
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/23474139-36e8-493f-b4c5-b4b60e26e66d/deploy-status)](https://app.netlify.com/sites/react-todo-list-test/deploys)
+
 ## Available Scripts
 
 In the project directory, you can run:
